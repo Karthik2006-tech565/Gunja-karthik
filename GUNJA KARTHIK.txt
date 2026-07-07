@@ -1,0 +1,57 @@
+                                   GUNJA KARTHIK 
+Mobile: +91 6303118090 | Mail: gunjakarthik565@gmail.com
+LinkedIn: https://www.linkedin.com/inGunja karthik
+
+PROFILE SUMMARY 
+Entry-level IT graduate with foundational knowledge in Python development, web technologies, and system-level problem solving. Demonstrates hands-on experience through academic and internship projects involving web applications, machine learning basics, and automation. Possesses understanding of software development lifecycle, debugging, and structured programming. Interested in roles across Cloud Support, IT Infrastructure, Python Development, and Technical Support domains within enterprise environments.
+EDUCATION
+Siddhartha Institute of engineering and technology 	            	                                                                                         2024 - 2028 
+B TECH (Bachelor of Technology), Electronic communications and Engineering.                                                                         CGPA:8.0/10
+Telangana Board of Intermediate Education 									   2022 - 2024
+Sarvail  Junior College, choutuppal ,  TG      			        				                 Percentage:- 83.6% 
+Board of Secondary Education, Telangana 									   2021 - 2022
+City central  High School, Warangal TG 								              CGPA:8.7/10
+ 
+TECHNICAL SKILLS
+•	Programming & Scripting: c,python,MATLAB
+•	Core ECE skills: Digital Electronics, Analog Circuits,
+•	Microprocessors, Communication Systems, VLSI Basic
+•	Tools: 
+•	Core Concepts: 
+•	Operating Systems: Basic understanding of Windows
+•	Version Control: 
+
+INTERNSHIPS
+Web Development Intern – AICTE (2025)
+•	Developed responsive web applications with focus on usability and structured design.
+•	Applied UI/UX principles and integrated APIs for dynamic functionality.
+•	Used Git and GitHub for version control and project tracking.
+Python Programming Intern – YBI Foundation (2024)
+•	Worked with Python data structures including lists, dictionaries, sets, and classes.
+•	Implemented structured programs and basic data analysis workflows.
+
+
+PROJECTS EXPERIENCE
+Secure Data Sharing and Authorized Searchable Framework for e-Healthcare System
+•	Contributed to the development of a secure data-sharing framework for healthcare systems.
+•	Focused on controlled data access and secure search mechanisms for sensitive medical data.
+•	Applied structured system design concepts to ensure privacy and data handling compliance.
+Online Social Networking for Friends
+•	Developed a web-based social networking platform enabling user interaction and communication.
+•	Implemented features such as user profiles, messaging, and multimedia content sharing.
+•	Focused on backend logic and user interaction workflows.
+Smarter Banking ChatFin (AI Chatbot)
+•	Built an AI-based chatbot application to support basic banking operations.
+•	Enabled functionalities such as balance inquiry, transaction details, and FAQs.
+•	Applied basic NLP concepts for conversational interaction and automation.
+
+CERTIFICATIONS
+•	Certification in Artificial Intelligence
+•	Certification in Web Development
+
+SOFT SKILLS
+•	Communication
+•	Team Collaboration
+•	Adaptability
+•	Time Management
+•	Quick Learning
